@@ -2,10 +2,8 @@ from io import BytesIO
 
 import streamlit as st
 import requests
-import json
 import os
 import numpy as np
-import seaborn as sns
 import matplotlib.pyplot as plt
 import networkx as nx
 
